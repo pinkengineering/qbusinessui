@@ -1,0 +1,34 @@
+[
+    {
+      "option_text": "Response is not helpful (incorrect or not relevant to my query)",
+      "option_key": "NOT_HELPFUL"
+    },
+    {
+      "option_text": "Response is factually incorrect",
+      "option_key": "NOT_FACTUALLY_CORRECT"
+    },
+    {
+      "option_text": "Response is not based on company documents",
+      "option_key": "NOT_BASED_ON_DOCUMENTS"
+    },
+    {
+      "option_text": "Response is not complete",
+      "option_key": "NOT_COMPLETE"
+    },
+    {
+      "option_text": "Response is not concise",
+      "option_key": "NOT_CONCISE"
+    },
+    {
+      "option_text": "The sources are inaccurate or missing",
+      "option_key": "INCORRECT_OR_MISSING_SOURCES"
+    },
+    {
+      "option_text": "Response is harmful or unsafe",
+      "option_key": "HARMFUL_OR_UNSAFE"
+    },
+    {
+      "option_text": "Other (explain below)",
+      "option_key": "OTHER"
+    }
+  ]

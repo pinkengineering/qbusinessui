@@ -1,0 +1,23 @@
+{
+    "error": {
+        "intermediate-err": "Error sending message. Please refresh your page and try again",
+        "websocket-conn-err": "Unable to connect to the server. Are you connected to the internet?",
+        "internal-server": "Something’s not right. I could not generate a response.",
+        "throttling": "You’ve reached the hourly request limit for LLM responses. Reduce the frequency of requests and try again.",
+        "chat-throttling": "Your chat message request rate is too high. Reduce the frequency of requests and try again.",
+        "no-retriever": "No retriever is in a valid state.",
+        "attachments-not-enabled": "Attachments are not enabled for this application",
+        "too-large-for-conversation": "This file is too large to fit in this conversation. Please try with a smaller file. Please refer to the documentation for supported sizes.",
+        "not-enough-space": "There is not enough space to upload all files. Try files with fewer words.",
+        "cannot-process-now": "We are not able to process the file at the moment. Please try again later.",
+        "unsupported-format": "One of your files is in a format that is not supported. Please refer to the documentation for supported file types.",
+        "attachment-limit": "Attachment limit for conversation exceeded",
+        "too-large-file": "This file is too large. Please refer to our documentation for supported file sizes.",
+        "expired-token": "To continue, please refresh your authorization.",
+        "input-too-long": "Your message exceeds the character limit of {{maxChar}} characters. Please shorten your message or break it into smaller parts and try again.",
+        "server-stopped-responding": "The server stopped responding.",
+        "message-length-exceeded": "Message request length exceeded.",
+        "license-not-found": "Sorry, you are not a licensed user. Please contact your admin to obtain a license.",
+        "client-side-error": "This application is not set up correctly. Please contact your admin for help."
+    }
+}
